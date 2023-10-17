@@ -15,7 +15,7 @@ void evento12(){
     printf("Sob esse cenário, escolha o caminho que você deseja seguir\n");
     printf("[01] - Continuar no planeta e sobreviver com uma taxa de 50%% da população \n");
     printf("[02] - Abaster a nave e contunar a missão em buscar de um planeta que esteja com uma taxa de 100%% de sobrevivência \n");
-    scanf("%d",&opcao);   
+    
     // funcao verificaEscolha()
      escolha = verificaEscolha(2);
     //  condicão 01 para continuar no planeta
